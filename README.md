@@ -3,5 +3,7 @@ The immense deforestation happening in the recent years led to the extinction of
 In this study, we use pre trained models like ‘ResNet 50’ and ‘VGG 16’ along with classification algorithms like Decision Tree, Random Forest, Logistic Regression, KNN, Support Vector Machine (SVM) to classify images. Among all the models, SVM gave the best accuracy of 93% with VGG16 and Logistic Regression has given the best accuracy of 93.5% with ResNet 50.
 
 Results:
+
+
 <img width="934" alt="Screen Shot 2022-02-03 at 1 08 23 PM" src="https://user-images.githubusercontent.com/58058791/152402848-56e70370-2ec7-41f9-ab64-35340e1a11f7.png">
 
