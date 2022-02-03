@@ -9,7 +9,9 @@ Results:
 
 
 In collabration with:-
-• Neha Mary Thomas(nthoma54@uwo.ca)
-• Martins Olu Badmus(Obadmus@uwo.ca)
-• Pavani Madhur(pmadhur@uwo.ca)
+Neha Mary Thomas(nthoma54@uwo.ca)
+
+Martins Olu Badmus(Obadmus@uwo.ca)
+
+Pavani Madhur(pmadhur@uwo.ca)
 
