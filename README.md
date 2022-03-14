@@ -9,12 +9,3 @@ In this study, we use pre trained models like ‘ResNet 50’ and ‘VGG 16’ a
 
 <img width="934" alt="Screen Shot 2022-02-03 at 1 08 23 PM" src="https://user-images.githubusercontent.com/58058791/152402848-56e70370-2ec7-41f9-ab64-35340e1a11f7.png">
 
-
-In collabration with:-
-
-Neha Mary Thomas(nthoma54@uwo.ca)
-
-Martins Olu Badmus(Obadmus@uwo.ca)
-
-Pavani Madhur(pmadhur@uwo.ca)
-
